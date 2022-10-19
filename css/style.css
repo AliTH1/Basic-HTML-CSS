@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 1000px;
+    height: 400px;
+    float: left;
+    background-color: gray;
+}
+
+.main-left{
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+
+.left-left{
+    width: 150px;
+    height: 200px;
+    float: left;
+}
+
+.one{
+    width: 150px;
+    height: 100px;
+    float: left;
+    background-color: tomato;
+}
+
+.two{
+    width: 150px;
+    height: 100px;
+    float: left;
+    background-color: green;
+}
+
+.three{
+    width: 150px;
+    height: 100px;
+    float: left;
+    background-color: goldenrod;
+}
+
+.left-right{
+    width: 250px;
+    height: 300px;
+    float: left;
+    background-color: red;
+}
+
+.four{
+    width: 250px;
+    height: 200px;
+    float: left;
+    background-color: blueviolet;
+}
+
+.five{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: green;
+}
+
+.six{
+    width: 150px;
+    height: 100px;
+    float: left;
+    background-color: blue;    
+}
+
+.bottom-left{
+    width: 150px;
+    height: 50px;
+    float: left;
+}
+
+.bottom-1{
+    width: 400px;
+    height: 100px;
+    float: left;
+    background-color:brown;
+}
+
+.main-center-right{
+    width: 400px;
+    height: 300px;
+    float: left;
+    background-color: tomato;
+}
+
+.center{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+
+.rcenter{
+    width: 400px;
+    height: 400px;
+    float: left;
+    background-color: red;
+    background-image: url("https://i.pinimg.com/474x/17/c0/7f/17c07f9dfbd51291d225f73f48e32ec7.jpg");
+}
+
+.right{
+    width: 200px;
+    height: 400px;
+    float: left;
+    background-color: darkblue;
+}
+
+.right-one{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: coral;
+}
+
+.right-two{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color:forestgreen;
+}
+
+.right-three{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: darkcyan;
+}
+
+.right-four{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color:darkorange;
+}
